@@ -1,9 +1,11 @@
-tensorflow>=2.8.0
-keras>=2.8.0
+tensorflow >= 2.8.0
+
+keras >= 2.8.0 (used via tensorflow.keras)
+
 numpy
+
 matplotlib
+
 pandas
-scikit-learn
+
 seaborn
-opencv-python
-jupyter
