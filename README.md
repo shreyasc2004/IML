@@ -1,4 +1,4 @@
-#Brain Tumor Detection using CNN: 
+Brain Tumor Detection using CNN: 
 
 1. Importing Essential Libraries: 
 Initiate the implementation by importing the required libraries that allow data manipulation, visualization alongside model construction capabilities from TensorFlow.
