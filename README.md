@@ -39,5 +39,12 @@ Obtain precision, recall and F1-score values from the confusion matrix for each 
 13. Saving the Trained Model: 
 The trained model can be saved to a file to maintain its availability for future uses or deployment.
 
+The requirements are listed in the README file , to install them use the commands listed below 
 
+Python Libraries Required
+1.TensorFlow – deep learning library: pip install tensorflow
+2.Matplotlib – for plotting: pip install matplotlib
+3.NumPy – numerical operations: pip install numpy
+4.Pandas – data handling: pip install pandas
+5.Seaborn – advanced data visualization: pip install seaborn
 
